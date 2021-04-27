@@ -1,10 +1,14 @@
-# Getting Started with Create React App
+# Getting Started with React Redux-Saga App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
 In the project directory, you can run:
+
+### `npm install` or `yarn install`
+
+Installs the dependencies from package.json file
 
 ### `yarn start`
 
