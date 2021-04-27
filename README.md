@@ -1,6 +1,8 @@
 # Getting Started with React Redux-Saga App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a basic project to demonstrate how we can use the saga middleware with React and redux.
+On click of the button on the page, it will fetch a sample news article from the internet.
 
 ## Available Scripts
 
